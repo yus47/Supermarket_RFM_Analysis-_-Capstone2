@@ -7,4 +7,9 @@ Dataset untuk analisis ini sudah terlampir di folder. Namun perlu diingat, data 
 ## Tujuan
 Analisis ini dilakukan sebagai salah satu *requirements* melanjutkan kursus *Data Science* bootcamp. Sebagai analis data, penulis harus memberikan *insight* yang dapat membantu *user* melalui analisis ini, yakni kepala supermarket tempat data diambil. *Insight* tersebut dapat dibaca pada notebook `Supermarket Customers` yang telah di-*enclose* pada git ini.
 
-Anda dapat membaca dan menggunakan hasil analisis ini untuk kepentingan Anda. Semoga hasil analisis ini dapat membantu para pembaca semua.
+## Catatan
+1. Kodingan ini menggunakan Python 3.11.9.
+1. Anda dapat membaca dan menggunakan hasil analisis ini untuk kepentingan Anda.
+1. Ada salah satu sel yang bertujuan untuk meng-export data untuk digunakan dalam Tableau. Harap dicek dan diubah menjadi comment jika diperlukan.
+
+Semoga hasil analisis ini dapat membantu para pembaca semua. 
